@@ -8,7 +8,7 @@ type: "tags"
 
 <!-- ![image.png](https://img-blog.csdnimg.cn/img_convert/5d7c4001802443918289eb360d258ba8.png) -->
 <!-- {% asset_img 1.png %} -->
-![image](../images/offset.jpg)
+![image](../images/context_1.png)
 
 ### 1.基本概念
 - 什么是执行上下文？当函数在运行的时候，会创建一个执行环境，这个执行环境就叫执行上下文（execution context）.
@@ -41,7 +41,7 @@ type: "tags"
 
 <!-- ![image.png](https://img-blog.csdnimg.cn/img_convert/a56c388caf08912d39cb9ff741d4d616.png) -->
 <!-- {% asset_img 2.jpg %} -->
-![image](./Js_context/2.jpg)
+![image](../images/context_2.jpg)
 
 
   1.2. 数据的操作，基本数据类型赋值是值的拷贝，复制的是值本身；
@@ -62,7 +62,7 @@ type: "tags"
 
 <!-- ![image.png](https://img-blog.csdnimg.cn/img_convert/6c62bf85fd84246c2c2b1f09682be20e.png) -->
 <!-- {% asset_img 3.jpg %} -->
-![image](./Js_context/3.jpg)
+![image](../images/context_3.jpg)
 
 引用数据类型赋值，复制的是引用地址指针；
 
@@ -82,7 +82,7 @@ type: "tags"
 
 <!-- ![image.png](https://img-blog.csdnimg.cn/img_convert/d7e517438bddcdbe0836d53537f1a1f2.png) -->
 <!-- {% asset_img 4.jpg %} -->
-![image](./Js_context/4.jpg)
+![image](../images/context_4.jpg)
 
 ### 2. 执行上下文的分类
 - js代码在执行的时候会进入一个执行上下文，可以理解为当前代码的运行环境

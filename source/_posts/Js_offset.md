@@ -9,7 +9,7 @@ type: "tags"
 
 <!-- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210608223001504.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N4enhpYW9mZW5nMTY4,size_16,color_FFFFFF,t_70) -->
 <!-- {% asset_img 1.jpg %} -->
-![image](./Js_offset/1.jpg)
+![image](../images/offset.jpg)
 
 
 ### 1.offset

@@ -175,7 +175,7 @@ type: "tags"
 
 <!-- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190925214517780.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N4enhpYW9mZW5nMTY4,size_16,color_FFFFFF,t_70) -->
 <!-- {% asset_img 1.png %} -->
-![image](./Interview/1.png)
+![image](../images/Interview_1.png)
 
 * 所有对象都有`__proto__`，指向构造函数的显示原型（prototype）
 * 所有函数都有`prototype`，也叫原型对象
@@ -297,7 +297,7 @@ type: "tags"
 
   <!-- ![img](https://img-blog.csdnimg.cn/img_convert/0c024368e637e93ad1ff6cbdffed5bc3.webp?x-oss-process=image/format,png) -->
   <!-- {% asset_img 2.png %} -->
-  ![image](./Interview/2.png)
+  ![image](../images/Interview_2.png)
 
 ### 15. vue组件通信
 
