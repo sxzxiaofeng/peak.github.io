@@ -174,7 +174,8 @@ type: "tags"
   ```
 
 <!-- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190925214517780.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N4enhpYW9mZW5nMTY4,size_16,color_FFFFFF,t_70) -->
-{% asset_img 1.png %}
+<!-- {% asset_img 1.png %} -->
+![image](./Interview/1.png)
 
 * 所有对象都有`__proto__`，指向构造函数的显示原型（prototype）
 * 所有函数都有`prototype`，也叫原型对象
@@ -295,7 +296,8 @@ type: "tags"
 * vue组件的生命周期是指vue组件从产生到销毁的过程，首先是new Vue()创建一个vue的实例，然后调用init函数对组件进行初始化。它会初始化生命周期函数和默认事件，接着会来到beforeCreate生命周期函数阶段，在beforeCreate生命周期函数执行的时候，data和methods中的数据还没有被初始化；在created中，data和methods都已经初始化好了，如果要调用methods中的方法，或者操作data中的数据，最早只能在created中操作；beforemount钩子执行的时候，模板已经在内存中编译好了，但是尚未挂载到页面中去，此时，页面还是旧的；mounted钩子执行完，表示整个vue实例已经初始化完毕了，此时，组件已经脱离了创建阶段，进入到运行阶段；beforeUpdate钩子执行的时候，页面中显示的数据还是旧的，此时data中数据是最新的，页面尚未和最新的数据保持同步；updated钩子执行的时候，页面和data中的数据保持同步了，都是最新的；beforeDestory钩子执行的时候，vue实例已经从运行阶段进入销毁阶段，实例上所有data数据和methods中的方法，都处于可用的状态。此时，还没有真正执行销毁的过程；destoryed钩子执行的时候，组件被完全销毁了，此时，组件中所有的数据和方法、指令都已经不可用了
 
   <!-- ![img](https://img-blog.csdnimg.cn/img_convert/0c024368e637e93ad1ff6cbdffed5bc3.webp?x-oss-process=image/format,png) -->
-  {% asset_img 2.png %}
+  <!-- {% asset_img 2.png %} -->
+  ![image](./Interview/2.png)
 
 ### 15. vue组件通信
 

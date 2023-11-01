@@ -48,4 +48,5 @@ prototype: 所有函数都有prototype属性, prototype属性的值是对象。�
 --> `Function.__proto__ === Function.prototype`
 
 **原型链图解**
-{% asset_img img.jpeg %}
+<!-- {% asset_img img.jpeg %} -->
+![image](./Prototype_chain/img.jpg)
