@@ -8,7 +8,7 @@ type: "tags"
 
 <!-- ![image.png](https://img-blog.csdnimg.cn/img_convert/5d7c4001802443918289eb360d258ba8.png) -->
 <!-- {% asset_img 1.png %} -->
-![image](./Js_context/1.png)
+![image](../images/offset.jpg)
 
 ### 1.基本概念
 - 什么是执行上下文？当函数在运行的时候，会创建一个执行环境，这个执行环境就叫执行上下文（execution context）.
