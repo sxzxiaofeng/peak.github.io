@@ -1,7 +1,7 @@
 ---
 title: 初中级面试宝典
 date: 2022-07-28 16:19:49
-tags: JavaScript
+tags: Interview
 type: "tags"
 ---
 
