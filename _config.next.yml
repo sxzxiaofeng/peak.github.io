@@ -372,8 +372,8 @@ codeblock:
   theme:
     # light: default
     # dark: stackoverflow-dark
-    light: tomorrow-night-bright
-    dark: tomorrow-night-bright
+    light: stackoverflow-light
+    dark: stackoverflow-dark
   prism:
     light: prism
     dark: prism-dark
